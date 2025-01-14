@@ -1,4 +1,7 @@
-    8  git checkout modify_files
+Unix Commands:
+--------------------
+	
+	8  git checkout modify_files
     9  git merge master
    10  vi DataTypes.java 
    11  vi DataTypes.java 
