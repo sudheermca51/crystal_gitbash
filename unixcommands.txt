@@ -1,0 +1,500 @@
+    8  git checkout modify_files
+    9  git merge master
+   10  vi DataTypes.java 
+   11  vi DataTypes.java 
+   12  vi DataTypes.java 
+   13  clear
+   14  vi DataTypes.java 
+   15  vi DataTypes.java 
+   16  git log
+   17  clear
+   18  git status
+   19  git add DataTypes.java
+   20  git commit -m "updated the DataTypes"
+   21  git push origin 
+   22  pwd
+   23  cd ..
+   24  cd ..
+   25  cd IITWForce/
+   26  cd UCLID/
+   27  sh example1.sh 
+   28  sh example1.sh 
+   29  dir
+   30  dir
+   31  sh example1.sh 
+   32  dir *.txt
+   33  cd C:/Users/sudhe/git/unommp/unommp
+   34  git status
+   35  git restore src/test/java/org/mmp/adminmodule/tests/SendMessagesE2ETests.java
+   36  git status
+   37  git status
+   38  git restore src/test/java/org/mmp/adminmodule/tests/SendMessagesE2ETests.java
+   39  ls
+   40  pwd
+   41  cls
+   42  clear
+   43  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/JavaOOPs
+   44  cd C:\Users\sudhe\eclipse-workspace\GitRepoElite\JavaOOPs
+   45  ls
+   46  ls -al
+   47  ls -a
+   48  ls -al
+   49  clear
+   50  git init
+   51  ls
+   52  ls -al
+   53  history
+   54  clear
+   55  git status
+   56  git add src/
+   57  git status
+   58  clear
+   59  git commit -m "Pusing the javaoops project"
+   60  git status
+   61  git log
+   62  git push origin
+   63  git push --set-upstream origin master
+   64  git status
+   65  git push --set-upstream origin master
+   66  clear
+   67  git log
+   68  git pull
+   69  git log
+   70  cldear
+   71  clear
+   72  git checkout -b modify_tests
+   73  git log
+   74  git checkout master
+   75  git pull 
+   76  git log
+   77  git branch
+   78  git checkout modify_tests
+   79  clear
+   80  git merge master
+   81  git log
+   82  vi src/module-info.java 
+   83  git status
+   84  git commit -m "updated the file via vi editor"
+   85  git add src/module-info.java
+   86  git commit -m "updated the file via vi editor"
+   87  git status
+   88  git log
+   89  git checkout master
+   90  git pull 
+   91  git checkout modify_tests
+   92  git merge master
+   93  clear
+   94  git status
+   95  cd src/
+   96  vi module-info.java 
+   97  vi module-info.java 
+   98  git status
+   99  git add module-info.java 
+  100  git commit -m "committed lines of logic"
+  101  clear
+  102  git status
+  103  git checkout master
+  104  git pull
+  105  git checkout modify_tests
+  106  git merge master
+  107  clear
+  108  vi module-info.java 
+  109  git status
+  110  git add module-info.java 
+  111  git commit -m "resolve conflicts"
+  112  git status
+  113  history
+  114  git log
+  115  git log
+  116  git push origin
+  117  git push --set-upstream origin modify_tests
+  118  git log
+  119  cd C:\Users\sudhe\eclipse-workspace\GitRepoElite\JavaFundamentals
+  120  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/JavaFundamentals
+  121  git init
+  122  git add README.md
+  123  echo "# java_selenium23" >> README.md
+  124  git add README.md
+  125  git commit -m "first commit"
+  126  git branch -M main
+  127  git remote add origin https://github.com/sudheer51/java_selenium23.git
+  128  git push -u origin main
+  129  history
+  130  clear
+  131  git log
+  132  git pull
+  133  git log
+  134  clear
+  135  cd C:\h2k\2023\readme_changes
+  136  cd C:/h2k/2023/readme_changes
+  137  git clone https://github.com/sudheer51/java_selenium23
+  138  ls
+  139  ls -al
+  140  cd java_selenium23/
+  141  ls
+  142  ls -al
+  143  clear
+  144  git checkout -b update_readme
+  145  git status
+  146  git add README.md 
+  147  git commit -m "modified"
+  148  git push
+  149  git push --set-upstream origin update_readme
+  150  history
+  151  clear
+  152  git checkout main
+  153  git log
+  154  git pull
+  155  git log
+  156  clear
+  157  git checkout update_readme
+  158  git merge main
+  159  git status
+  160  git add README.md 
+  161  git commit -m "Resolved the conflicts"
+  162  git push 
+  163  history
+  164  clear
+  165  git checkout
+  166  cd ..
+  167  cd ..
+  168  cd ..
+  169  cd ..
+  170  git checkout
+  171  git checkout /?
+  172  man checkout
+  173  man git
+  174  pwd
+  175  mkdir selenium23_mp
+  176  cd selenium23_mp/
+  177  pwd
+  178  git clone https://github.com/sudheer51/openmrs_selenium23.git
+  179  clear
+  180  pwd
+  181  ls
+  182  cd openmrs_selenium23/
+  183  ls -al
+  184  cd selenium_23/
+  185  clear
+  186  pwd
+  187  ls 
+  188  mvn clean test
+  189  ls
+  190  grep
+  191  wc
+  192  pwd
+  193  clear
+  194  cd C:\Users\sudhe\eclipse-workspace\GitRepoElite\DemoGitbash_Sigma
+  195  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/DemoGitbash_Sigma
+  196  pwd /?
+  197  man pwd
+  198  ls -al
+  199  git init
+  200  clear
+  201  ls -al
+  202  git status
+  203  clear
+  204  git status
+  205  cd src/
+  206  git status
+  207  ls -al
+  208  git add HelloWorld.java 
+  209  git status
+  210  clear
+  211  git commit -m "Adding HelloWorld.java"
+  212  git status
+  213  git remote add origin https://github.com/sudheer51/DemoGitbash_Sigma.git
+  214  git push origin
+  215   git push --set-upstream origin master
+  216  history
+  217  clear
+  218  git checkout -b pageobject_fix
+  219  pwd
+  220  git status
+  221  git status
+  222  git commit -m "modified the helloworld.java"
+  223  git add HelloWorld.java
+  224  git commit -m "PRinting helloworld"
+  225  git push origin
+  226  git push --set-upstream origin pageobject_fix
+  227  clear
+  228  git branch
+  229  git branch master
+  230  git checkout master
+  231  git pull 
+  232  clear
+  233  git branch
+  234  git checkout pageobject_fix
+  235  git merge master
+  236  git status
+  237  git add HelloWorld.java 
+  238  git commit -m " updated the file"
+  239  clear
+  240  git push origin
+  241  git log
+  242  clear
+  243  pwd
+  244  cd git
+  245  cd sigmarepo/
+  246  git status
+  247  dir
+  248  cd mmpsigma/
+  249  dir
+  250  vi EditProfileTests.xml 
+  251  git status
+  252  clear
+  253  git status
+  254  git stash
+  255  git stash list
+  256  git stash pop stash@{0} 
+  257  clear
+  258  git status
+  259  git stash
+  260  git restore EditProfileTests.xml
+  261  git status
+  262  git stash list
+  263  git stash pop {0}
+  264  git stash pop@{0}
+  265  history
+  266  git stash pop stash@{0}
+  267  ps -ef
+  268  kill
+  269  ls
+  270  cd C:/users
+  271  cd C:\Users\sudhe\eclipse-workspace\GitRepoElite\JavaFundamentals
+  272  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/JavaFundamentals
+  273  cd c:\\users
+  274  cd cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/JavaFundamentals
+  275  cd ..
+  276  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/JavaFundamentals
+  277  clear
+  278  ls
+  279  git init
+  280  git status
+  281  git add README.md
+  282  clear
+  283  git status
+  284  git commit -m "Adding Readme file"
+  285  history
+  286  clear
+  287  git remote add origin https://github.com/sudheer51/GitbashRepoBeta.git
+  288  git push -u origin master
+  289  cd C:/IITWForce/demogitbash_temp
+  290  git clone https://github.com/sudheer51/GitbashRepoBeta.git
+  291  ls
+  292  cd GitbashRepoBeta/
+  293  clear
+  294  ls 
+  295  ls -al
+  296  ls -a
+  297  ls -al
+  298  git checkout -b update_readme_changes
+  299  clear
+  300  git status
+  301  git restore README.md
+  302  git status
+  303  git status
+  304  git add README.md
+  305  git status
+  306  git push 
+  307  clear
+  308  git push
+  309  git push --set-upstream origin update_readme_changes
+  310  git status
+  311  git commit -m "updated the readme file"
+  312  clear
+  313  git status
+  314  git push
+  315  git checkout master
+  316  git log
+  317  clear
+  318  git pull
+  319  git log
+  320  clear
+  321  git branch
+  322  git branch update_readme_changes
+  323  git checkout update_readme_changes
+  324  git merge master
+  325  git log
+  326  clear
+  327  git status
+  328  git add README.md
+  329  git commit -m "updated the line #3"
+  330  git checkout master
+  331  clear
+  332  git checkout master
+  333  git pull
+  334  git log
+  335  clear
+  336  git branch
+  337  git checkout update_readme_changes
+  338  git merge master
+  339  git status
+  340  git add README.md 
+  341  git status
+  342  git commit -m "Resolved the merge conflict"
+  343  git status
+  344  clear
+  345  git status
+  346  git push
+  347  history
+  348  clear
+  349  history
+  350  cd C:/Users/sudhe/git/Infinitymmp
+  351  git status
+  352  git status
+  353  cls
+  354  clear
+  355  git status
+  356  git pull 
+  357  git branch
+  358  git checkout code_changes_us_123
+  359  git merge master
+  360  git status
+  361  git checkout master
+  362  git status
+  363  git status
+  364  git merge
+  365  dir
+  366  cd ..
+  367  clear
+  368  pwd
+  369  dir
+  370  cd Infinitymmp/
+  371  dir
+  372  git status
+  373  clear
+  374  git status
+  375  git add infinitymmp/ScheduleAppointmentTests.xml
+  376  git status
+  377  git commit -m "REsolved the conflicts of the scheduleAppointment.xml"
+  378  git push origin 
+  379  git merge master
+  380  git status
+  381  git pull
+  382  git status
+  383  git push origin
+  384  git checkout master
+  385  git status
+  386  cd C:/Users/sudhe/git/infinitymmp/infinitymmp
+  387  git status
+  388  git commit -m "Resolved the conflicts"
+  389  git status
+  390  git push origin
+  391  git status
+  392  git commit -m "modified the xml file triggered in pom.xml"
+  393  git push origin
+  394  $ ls -al ~/.ssh
+  395  ls -al ~/.ssh
+  396  ssh-keygen -t ed25519 -C "sudheer694@gmail.com"
+  397  ls -al ~/.ssh
+  398  ls -al ~/.ssh
+  399  ssh-keygen -t ed25519 -C "sudheer694@gmail.com"
+  400  ls -al ~/.ssh
+  401  $ clip < ~/.ssh/id_ed25519.pub
+  402  clip < ~/.ssh/id_ed25519.pub
+  403  history
+  404  ls
+  405  clear
+  406  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/DemoGitbash_Sigma
+  407  ls
+  408  clear
+  409  clear
+  410  ls -al
+  411  cd ..
+  412  cd gitbashbetammp/
+  413  clear
+  414  ls -al
+  415  git init
+  416  ls -al
+  417  git branch
+  418  git status
+  419  git add pom.xml
+  420  git status
+  421  clear
+  422  git commit -m "Pushing the maven project pom.xml"
+  423  git status
+  424  git push https://github.com/sudheer51/gitbashmmpbeta.git
+  425  history
+  426  clear
+  427  ls
+  428  ls -a
+  429  clear
+  430  ls -l
+  431  ls -a
+  432  ls -al
+  433  vi unixcommands.sh
+  434  sh unixcommands.sh 
+  435  vi unixcommands.sh
+  436  clear
+  437  pwd
+  438  git checkout -b add_tests
+  439  git branch
+  440  git status
+  441  cd src
+  442  git status
+  443  clear
+  444  ls *.java
+  445  ls -al 
+  446  cd ..
+  447  ls
+  448  cd src/main/java/org/iit/healthcare/gitbashbetammp/
+  449  clear
+  450  ls
+  451  cd ..
+  452  cd ../../../
+  453  cd ../../../
+  454  cd src/test/java/org/iit/healthcare/gitbashbetammp
+  455  ls -al
+  456  cd ../../../../../../
+  457  clear
+  458  cd ../
+  459  ls
+  460  git status
+  461  ls
+  462  clear
+  463  ls -al
+  464  ls -R
+  465  clear
+  466  git add *.java
+  467  git status
+  468  git restore --staged src/main/java/org/iit/healthcare/gitbashbetammp/App.java
+  469  git status
+  470  git commit -m "Adding java files"
+  471  git push 
+  472  git push https://github.com/sudheer51/gitbashmmpbeta.git
+  473  clear
+  474  git status
+  475  git branch
+  476  git checkout master
+  477  ls -al
+  478  clear
+  479  git log
+  480  git pull
+  481  git pull https://github.com/sudheer51/gitbashmmpbeta.git
+  482  git log
+  483  history
+  484  clear
+  485  git branch
+  486  git checkout add_tests
+  487  git merge master
+  488  git log
+  489  git merge master
+  490  git compare master add_tests
+  491  git --help
+  492  git diff master add_tests
+  493  dir
+  494  vi pom.xml 
+  495  git commit -m "removed space"
+  496  git commit -m "removed space"
+  497  git add pom.xml 
+  498  git commit -m "removed space"
+  499  git status
+  500  git diff master add_tests
+  501  history
+  502  cd C:/Users/sudhe/eclipse-workspace/GitRepoElite/DemoGitbash_Sigma
+  503  clear
+  504  ls -al
+  505  history
+  506  clear
+  507  history >> unixcommands.txt
